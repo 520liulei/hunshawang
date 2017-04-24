@@ -1,0 +1,302 @@
+.bend
+{
+	width: 1000px;
+	height: 1183px;
+	background: white;
+	margin:15px auto;
+}
+.bend1>p
+{
+	display:inline-block;
+	margin: 13px 13px;
+	height: 13px;
+	font:"微软雅黑";
+	font-size: 14px;
+	font-weight:bold;
+}
+.bend1>p span
+{
+	
+	 font-size:13px ;
+	 font-weight: 100;
+}
+.bend1
+{
+	width: 340px;
+	height: 1144px;
+	float: left;
+}
+.img1_1
+{
+	margin-left: 11px;
+}
+.bend1_img
+{
+	width: 291px;
+	height: 33px;
+	margin-top: 13px;
+	margin-left: 12px;
+	background: url(../img/prod_jiant_03.png);
+}
+
+.bend1>div:nth-of-type(1)
+{
+	margin-top: 30px;
+}
+
+.bend1_img p
+{
+	display: inline-block;
+	font: "微软雅黑";
+	font-size:14px ;
+	font-weight: bold;
+	margin-top: 8px;
+	margin-left: 35px;
+	color: black;
+}
+.bend1_ul
+{
+	list-style: none;
+	line-height: 25px;
+	margin-left: 16px;
+	margin-top: 12px;
+}
+.bend1_ul li
+{
+	
+	text-indent: 10px;
+}
+.bend1_ul li>a
+{
+	text-decoration:none;
+	color: black;
+	font: "微软雅黑";
+	font-size:14px ;
+}
+.bend1_ul li:hover a
+{
+	color: red;
+}
+
+.img1
+{
+	display: inline-block;
+	margin-top: 39px;
+	margin-left: 13px;
+}
+.bend1_ul1
+{
+	list-style: none;
+	margin-left: -20px;
+	
+}
+.bend1_ul1 li
+{
+	width: 273px;
+	height: 45px;
+	padding-top: 5px;
+	border-bottom: 1px dashed #A1A1A1;
+	line-height: 18px;
+}
+.bend1_ul1 a
+{
+	text-decoration: none;
+	color: black;
+	font-size:14px;
+}
+.bend1_ul1 li:hover a
+{
+	color: red;
+}
+.img2
+{
+	margin-top: 31px;
+	margin-left: 10px;
+}
+.bend1_ul2
+{
+	list-style: none;
+	margin-left: -30px;
+	margin-top: 15px;
+}
+.bend1_ul2 li
+{
+	float: left;
+	width: 335px;
+	margin-top: 2px;
+	
+}
+.bend1_ul2 a
+{
+	float: left;
+	text-decoration: none;
+	font-size: 12px;
+	color: black;
+}
+.bend1_ulimg
+{
+	width:12px;
+	height: 24px;
+	background: url(../img/libg8.gif);
+	margin-top: 24px;
+	margin-left: 7px;
+	float: left;
+}
+.bend1_ul2 li:nth-child(2) .bend1_ulimg
+{	
+	margin-left: 13px;	
+}
+.bend1_ul2 li:nth-child(3) .bend1_ulimg
+{	
+	margin-left: 13px;	
+}
+.bend1_ulimg1
+{
+	width: 141px;
+	height: 71px;
+	background: url(../img/libg14.gif);
+	background-position:0 71px;
+	float: left;
+}
+.bend1_ul2 p:nth-child(1)
+{
+	font-size:12px;
+	margin-top: 4px;
+}
+.bend1_ul2 p:nth-child(2)
+{
+	color:#A1A1A1;
+	font-size:25px ;
+	margin-top: 10px;
+	margin-left: 16px;
+}
+.bend1_ul2 li:nth-child(1) p:nth-child(2)
+{
+	margin-left: 17px;
+	margin-top: -3px;
+}
+.bend1_ul2 li:hover a
+{
+	color: red;
+}
+.bend1_ul2 li:hover .bend1_ulimg
+{
+	background-position:0 24px;
+}
+.bend1_ul2 li:hover .bend1_ulimg1
+{
+	background-position:0 0px;
+}
+.bend1_ul2 li:hover .bend1_ulimg1 p
+{
+	color:#A1A1A1;
+}
+.bend2
+{
+	width: 660px;
+	height: 1144px;
+	float: left;
+}
+.bend2_img
+{
+	margin-top: 36px;
+}
+.bend2_ul
+{
+ list-style: none;
+ width: 676px;
+ height: 1031px;
+ margin-left: -57px;
+}
+.bend2_ul li
+{
+	float: left;
+	margin-left: 17px;
+	height: 345px;
+}
+.bend2_ul>li>a
+{
+	display: block;
+	width: 317px;
+	text-decoration: none;
+	color: black;
+	font: "微软雅黑";
+	font-size: 12px;
+
+}
+.bend2_ul>li>div:nth-child(2) span
+{
+	display: inline-block;
+	font-size: 12px;
+	width: 300px;
+	margin-top: 10px;
+	margin-left: 12px;
+}
+.bend2_ul>li>div:nth-child(1)
+{
+	width: 319px;
+	height: 239px;
+	background:url(../img/proubend.png) no-repeat;
+	margin-top: 24px;
+	
+	
+}
+.bend2_ul>li>div:nth-child(2) 
+{
+	width: 317px;
+	height: 33px;
+	margin-top: 35px;
+	background:#A1A1A1;
+	float: left;
+}
+.bend2_ul>li>div:nth-child(2)>p
+{
+	display: inline-block;
+	float: left;
+}
+.bend2_ul>li>div:nth-child(2)>div
+{
+	position: relative;
+	width: 30px;
+	height: 30px;
+	background: gold;
+	margin-top: -24px;
+	float: right;
+	color: red;
+	font-size: 12px;
+	display: none;
+}
+.bend2_ul>li>div:nth-child(2)>div p:nth-child(1)
+{
+	font-size: 25px;
+	position: absolute;
+	left: 3px;
+	top: -4px;
+}
+.bend2_ul>li>div:nth-child(2)>div p:nth-child(2)
+{
+	position: absolute;
+	bottom: -2px;
+	left: 5px;
+}
+.bend2_ul>li>a>span
+{
+	
+	float: right;
+}
+.bend2_ul li:hover a
+{
+	color: red;
+}
+.bend2_ul li:hover div:nth-child(2)
+{
+	background: gold;
+}
+.bend2_ul li:hover div:nth-child(2) span
+{
+	color: red;
+}
+.bend2_ul li:hover div:nth-child(2) div
+{
+	display: block;
+}
